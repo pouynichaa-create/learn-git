@@ -1,0 +1,6 @@
+
+* {
+    margin: 0; /* Remove all spacing OUTSIDE elements */
+    padding: 0; /* Remove all spacing INSIDE elements */
+    box-sizing: border-box; /* Makes sizing more predictable */
+}
